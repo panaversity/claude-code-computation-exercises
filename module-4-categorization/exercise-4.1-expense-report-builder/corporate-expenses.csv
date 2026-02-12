@@ -1,0 +1,157 @@
+date,merchant,amount,card_holder,description
+02/15/2025,ENTERPRISE RENT-A-CAR,-99.80,K. Park,Hotel stay
+02/22/2025,GITHUB INC,-7.09,A. Lee,Cloud services
+04/18/2025,JAVA CITY COFFEE,-7.35,S. Williams,Office coffee run
+02/02/2025,DUNKIN DONUTS,-6.24,R. Johnson,Team lunch
+01/17/2025,3M COMPANY,-23.54,S. Williams,Paper order
+06/26/2025,SUBWAY RESTAURANT,-9.46,R. Johnson,Networking dinner
+06/21/2025,LYFT RIDE,-43.52,J. Smith,Conference attendance
+01/13/2025,PANERA BREAD,-16.52,A. Lee,Networking dinner
+06/04/2025,SLACK TECHNOLOGIES,-14.12,R. Johnson,Cloud services
+05/01/2025,ATLASSIAN,-10.77,K. Park,Monthly subscription
+06/08/2025,OFFICE DEPOT,-38.55,J. Smith,Shipping materials
+02/13/2025,OLIVE GARDEN,-21.50,J. Smith,Working lunch
+05/14/2025,DIGITALOCEAN,-13.32,R. Johnson,IDE license
+05/01/2025,HYATT REGENCY,-349.31,R. Johnson,Flight to Chicago
+05/27/2025,PANERA BREAD,-12.13,J. Smith,Client dinner
+04/03/2025,BEST BUY,-249.99,A. Lee,Monitor purchase
+03/10/2025,ULINE SHIPPING SUPPLIES,-37.83,A. Lee,Facility repair
+03/26/2025,SOUTHWEST AIRLINES,-287.70,J. Smith,Conference attendance
+06/15/2025,LYFT RIDE,-33.53,M. Chen,Hotel stay
+04/15/2025,AVERY PRODUCTS,-15.79,J. Smith,Equipment purchase
+02/13/2025,PANDA EXPRESS,-13.86,A. Lee,Lunch meeting
+03/14/2025,AVERY PRODUCTS,-17.82,S. Williams,Paper order
+03/07/2025,JETBRAINS S.R.O.,-259.98,K. Park,SaaS renewal
+02/18/2025,JAVA CITY COFFEE,-5.32,M. Chen,Networking dinner
+01/15/2025,AWS AMAZON,-117.60,M. Chen,IDE license
+02/15/2025,UNITED AIRLINES,-470.75,J. Smith,Hotel stay
+04/16/2025,GOOGLE WORKSPACE,-15.37,J. Smith,Platform access
+06/08/2025,BROTHER INDUSTRIES,-166.76,A. Lee,Paper order
+01/09/2025,HP INC PRINTERS,-142.32,K. Park,Facility repair
+05/10/2025,OFFICE DEPOT,-18.91,K. Park,Desk accessories
+06/24/2025,AMERICAN AIRLINES,-379.06,R. Johnson,Client meeting travel
+01/28/2025,PANERA BREAD,-9.35,M. Chen,Client dinner
+06/11/2025,TACO BELL,-7.84,R. Johnson,Team breakfast
+04/09/2025,HP INC PRINTERS,-295.90,S. Williams,Shipping materials
+04/14/2025,SHELL OIL CO,-48.75,J. Smith,Fuel
+05/16/2025,CHICK-FIL-A,-12.66,R. Johnson,Morning coffee
+05/15/2025,MICROSOFT 365,-17.11,K. Park,Monthly subscription
+05/11/2025,APPLEBEES,-45.00,M. Chen,Team dinner
+05/23/2025,SOUTHWEST AIRLINES,-171.72,A. Lee,Airport transfer
+04/09/2025,ADOBE SYSTEMS,-28.36,K. Park,Dev tools
+02/16/2025,AVERY PRODUCTS,-11.28,M. Chen,Paper order
+01/09/2025,CHICK-FIL-A,-7.36,M. Chen,Lunch meeting
+04/15/2025,ATLASSIAN,-20.25,A. Lee,Cloud services
+01/12/2025,SUBWAY RESTAURANT,-9.81,M. Chen,Working lunch
+06/05/2025,SUBWAY RESTAURANT,-9.75,S. Williams,Lunch
+04/22/2025,DELTA FAUCETS,-145.50,A. Lee,Kitchen sink replacement
+03/04/2025,VERCEL INC,-23.61,R. Johnson,Monthly subscription
+04/26/2025,CHICK-FIL-A,-8.31,S. Williams,Working lunch
+06/05/2025,STAPLES,-61.90,S. Williams,Desk accessories
+05/10/2025,AMAZON BUSINESS SUPPLIES,-52.24,J. Smith,Facility repair
+02/17/2025,CHEESECAKE FACTORY,-30.27,K. Park,Morning coffee
+01/10/2025,SUBWAY RESTAURANT,-9.56,A. Lee,Working lunch
+01/12/2025,UNITED AIRLINES,-524.96,A. Lee,Hotel stay
+01/15/2025,JAVA CITY COFFEE,-6.15,R. Johnson,Client dinner
+01/19/2025,OFFICE DEPOT,-51.95,S. Williams,Office supplies
+02/23/2025,SLACK TECHNOLOGIES,-12.32,M. Chen,Annual license
+05/07/2025,BEST WESTERN,-128.88,M. Chen,Flight to Chicago
+02/07/2025,VERCEL INC,-39.38,J. Smith,Team plan
+02/14/2025,AMAZON FRESH,-125.00,K. Park,Office snack delivery
+04/12/2025,PF CHANGS,-26.44,A. Lee,Working lunch
+05/06/2025,LYFT RIDE,-34.56,A. Lee,NYC meetings
+06/11/2025,JAVA CITY COFFEE,-7.18,M. Chen,Lunch meeting
+01/25/2025,APPLEBEES,-38.50,R. Johnson,Client lunch
+01/30/2025,SUBWAY RESTAURANT,-11.50,R. Johnson,Quick lunch
+06/18/2025,LYFT RIDE,-24.01,A. Lee,Flight to Chicago
+06/21/2025,PANDA EXPRESS,-13.96,J. Smith,Working lunch
+03/04/2025,OFFICE DEPOT,-29.51,S. Williams,Printer supplies
+05/28/2025,STARBUCKS COFFEE,-6.59,K. Park,Morning coffee
+03/28/2025,JAVA CITY COFFEE,-5.98,J. Smith,Client dinner
+05/09/2025,UBER TECHNOLOGIES,-15.19,R. Johnson,Business trip
+03/18/2025,CHICK-FIL-A,-10.59,M. Chen,Working lunch
+01/02/2025,VERCEL INC,-36.02,M. Chen,IDE license
+01/03/2025,UBER TECHNOLOGIES,-43.90,M. Chen,Airport transfer
+05/26/2025,OFFICE DEPOT,-24.26,J. Smith,Paper order
+02/12/2025,LYFT RIDE,-19.13,A. Lee,Airport transfer
+05/07/2025,ENTERPRISE RENT-A-CAR,-113.78,S. Williams,NYC meetings
+06/23/2025,SOUTHWEST AIRLINES,-167.77,M. Chen,Hotel stay
+04/05/2025,BURGER KING,-10.05,K. Park,Morning coffee
+02/12/2025,BURGER KING,-8.47,J. Smith,Working lunch
+03/05/2025,NATIONAL CAR RENTAL,-159.29,M. Chen,Flight to Chicago
+06/10/2025,ZOOM VIDEO COMMUNICATIONS,-16.92,M. Chen,Dev tools
+01/13/2025,BEST WESTERN,-161.38,A. Lee,West coast tour
+05/20/2025,NOTION LABS,-11.75,A. Lee,IDE license
+06/05/2025,CHIPOTLE MEXICAN GRILL,-15.11,R. Johnson,Team lunch
+03/28/2025,DR PEPPER SNAPPLE GROUP,-24.00,J. Smith,Beverages for office
+02/14/2025,TACO BELL,-7.09,M. Chen,Team lunch
+06/19/2025,AVERY PRODUCTS,-19.77,A. Lee,Paper order
+04/22/2025,PANERA BREAD,-12.43,R. Johnson,Team breakfast
+04/07/2025,PANDA EXPRESS,-9.29,J. Smith,Client dinner
+04/13/2025,FIGMA INC,-22.02,M. Chen,Team plan
+02/23/2025,JAVA CITY COFFEE,-6.87,A. Lee,Working lunch
+05/18/2025,JAVA CITY COFFEE,-5.25,J. Smith,Afternoon pick-me-up
+04/27/2025,TACO BELL,-8.58,R. Johnson,Lunch meeting
+06/13/2025,AVERY PRODUCTS,-17.46,A. Lee,Office supplies
+03/12/2025,OLIVE GARDEN,-15.66,S. Williams,Office coffee run
+05/16/2025,DATADOG INC,-45.80,S. Williams,Cloud services
+03/08/2025,SHELL OIL CO,-55.00,A. Lee,Gas for client visit
+04/15/2025,RED ROBIN,-20.39,S. Williams,Team lunch
+05/03/2025,HYATT REGENCY,-250.71,K. Park,NYC meetings
+04/18/2025,HYATT REGENCY,-371.74,J. Smith,NYC meetings
+04/04/2025,STAPLES,-30.79,K. Park,Paper order
+05/18/2025,AMERICAN AIRLINES,-526.01,A. Lee,NYC meetings
+01/11/2025,UNITED AIRLINES,-483.07,J. Smith,Airport transfer
+05/05/2025,BROTHER INDUSTRIES,-197.88,A. Lee,Office supplies
+05/21/2025,RED ROBIN,-14.79,A. Lee,Networking dinner
+03/27/2025,HERTZ RENT A CAR,-197.66,A. Lee,Airport transfer
+06/04/2025,JAVA CITY COFFEE,-7.36,K. Park,Team lunch
+02/22/2025,LYFT RIDE,-25.41,A. Lee,Business trip
+03/15/2025,DELTA FAUCETS,-89.99,M. Chen,Office bathroom repair
+05/05/2025,RED LOBSTER,-85.00,M. Chen,Client dinner
+04/28/2025,ADOBE SYSTEMS,-44.55,K. Park,Cloud services
+06/21/2025,OLIVE GARDEN,-29.32,R. Johnson,Team breakfast
+05/04/2025,RED ROBIN,-17.12,K. Park,Working lunch
+04/22/2025,RED ROBIN,-16.36,S. Williams,Morning coffee
+05/13/2025,DATADOG INC,-25.14,K. Park,Monthly subscription
+04/25/2025,SLACK TECHNOLOGIES,-9.17,R. Johnson,Monthly subscription
+06/12/2025,HOLIDAY INN EXPRESS,-120.39,K. Park,West coast tour
+06/14/2025,HP INC PRINTERS,-328.60,K. Park,Facility repair
+01/15/2025,DIGITALOCEAN,-11.76,K. Park,Cloud services
+06/08/2025,NATIONAL CAR RENTAL,-201.65,A. Lee,Client meeting travel
+01/24/2025,DUNKIN DONUTS,-5.94,R. Johnson,Morning coffee
+01/25/2025,ADOBE SYSTEMS,-47.15,S. Williams,Monthly subscription
+01/25/2025,NOTION LABS,-10.50,K. Park,Cloud services
+05/23/2025,BROTHER INDUSTRIES,-148.95,A. Lee,Office supplies
+06/17/2025,ATLASSIAN,-17.84,K. Park,Monthly subscription
+03/03/2025,OLIVE GARDEN,-16.89,R. Johnson,Working lunch
+05/03/2025,DELTA AIR LINES,-553.65,J. Smith,West coast tour
+06/20/2025,UNITED AIRLINES,-400.95,A. Lee,Airport transfer
+04/12/2025,PANERA BREAD,-17.02,S. Williams,Team breakfast
+04/06/2025,AVERY PRODUCTS,-14.44,S. Williams,Shipping materials
+02/20/2025,APPLE STORE,-999.00,K. Park,iPad for presentation
+04/24/2025,ADOBE SYSTEMS,-31.59,M. Chen,IDE license
+06/09/2025,LYFT RIDE,-50.21,M. Chen,Airport transfer
+01/09/2025,AVERY PRODUCTS,-22.50,K. Park,Equipment purchase
+02/05/2025,UBER TECHNOLOGIES,-45.03,R. Johnson,West coast tour
+04/16/2025,PANDA EXPRESS,-13.00,M. Chen,Office coffee run
+01/01/2025,RED ROBIN,-14.22,A. Lee,Morning coffee
+06/11/2025,STARBUCKS COFFEE,-7.76,J. Smith,Working lunch
+01/05/2025,UNITED AIRLINES,-345.94,S. Williams,Conference attendance
+02/14/2025,PANDA EXPRESS,-8.81,J. Smith,Morning coffee
+05/19/2025,OLIVE GARDEN,-34.81,J. Smith,Client dinner
+06/10/2025,WENDYS,-10.35,K. Park,Team breakfast
+05/04/2025,ENTERPRISE RENT-A-CAR,-96.18,S. Williams,Hotel stay
+03/13/2025,SOUTHWEST AIRLINES,-194.55,A. Lee,Client meeting travel
+03/17/2025,STARBUCKS COFFEE,-5.12,A. Lee,Office coffee run
+01/24/2025,DATADOG INC,-93.04,R. Johnson,Monthly subscription
+04/01/2025,JAVA CITY COFFEE,-7.82,R. Johnson,Working lunch
+03/06/2025,GOOGLE WORKSPACE,-9.61,R. Johnson,Annual license
+04/13/2025,BROTHER INDUSTRIES,-113.63,S. Williams,Facility repair
+05/03/2025,ADOBE SYSTEMS,-43.81,M. Chen,Team plan
+03/08/2025,OFFICE DEPOT,-21.72,A. Lee,Printer supplies
+05/10/2025,CHIPOTLE MEXICAN GRILL,-10.66,S. Williams,Client dinner
+06/12/2025,TARGET,-67.50,S. Williams,Office supplies run
+02/28/2025,GITHUB INC,-10.07,K. Park,Team plan
+02/10/2025,JAVA CITY COFFEE,-6.50,K. Park,Morning coffee
+05/25/2025,BEST WESTERN,-174.46,M. Chen,Conference attendance

@@ -1,0 +1,17 @@
+name: Release Exercise Pack
+on:
+  push:
+    branches: [main]
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create ZIP
+        run: zip -r computation-exercises.zip . -x '.github/*' '.git/*'
+      - name: Create Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          files: computation-exercises.zip
+          make_latest: true

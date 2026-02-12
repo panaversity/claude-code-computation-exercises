@@ -1,0 +1,5 @@
+Transaction Count: 20
+Total: $3,723.23
+
+Computed by summing ALL amounts (positive and negative) from all 20 data rows.
+The header row is NOT a transaction and should not be counted.

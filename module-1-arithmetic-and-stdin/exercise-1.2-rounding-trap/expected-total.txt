@@ -1,0 +1,5 @@
+Expected Total: $112,348.93
+Transaction Count: 520
+
+Computed using Python's Decimal module for exact arithmetic.
+Any difference from this value indicates a precision bug.

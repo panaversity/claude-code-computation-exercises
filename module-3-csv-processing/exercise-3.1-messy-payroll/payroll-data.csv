@@ -1,0 +1,86 @@
+employee_id,name,company,department,hire_date,salary,bonus,status
+E001,"O'Connor, Ana","Acme, Inc.",Finance,2022-04-08,"$131,000.00","$4,304.72",Active
+E002,"Smith, Amanda",DataViz Systems,Design,2024-07-08,"$148,000.00","$6,566.66",Active
+E003," Miller, Ana ","Johnson & Johnson, Ltd.",Legal,2023-02-12,"$148,000.00","$11,582.56",Active
+E004,"O'Connor, Stephanie","Premier Consulting, Inc.",Customer Success,04/23/2021,"$74,200.00","$7,937.81",Active
+E005,"Davis, Sarah","Premier Consulting, Inc.",Operations,2023-04-22,"$132,000.00","$5,993.13",Active
+E006,"O'Connor, Amanda",CloudFirst Technologies,Operations,2021-01-08,"$96,200.00",,Terminated
+E007,"O'Connor, Ashley",Alpine Manufacturing,Product,03/09/2022,"$116,200.00","$7,966.56",Terminated
+E008,"Kim, Christopher",BrightPath Education,Marketing,01/28/2021,"$65,800.00","$4,252.59",Terminated
+E009,"Moore, John",Smith & Associates,Design,05/25/2023,"$100,500.00","$11,642.27",Active
+E010,"Thomas, Ana",Summit Financial Group,Design,10/07/2022,"$65,000.00","$4,808.34",Active
+E011,"Garcia, Jennifer",Tech Solutions LLC,HR,2021-10-03,"$149,000.00","$11,613.59",Active
+E012,"Moore, Sarah",Metro Healthcare,Design,2022-10-14,"$141,500.00","$9,326.17",Active
+E013,"Martinez, Jennifer",CloudFirst Technologies,Marketing,2025-06-01,"$120,500.00",,Active
+E014,"Miller, Patrick",Sterling Logistics,HR,05/22/2024,"$61,800.00","$4,484.68",Active
+E015,"Wilson, Emily",Riverdale Partners,Legal,2021-08-28,"$127,000.00",,Active
+E016," Williams, Michael ","Cascade, Inc.",Product,03/14/2022,"$76,000.00","$8,171.63",On Leave
+E017,"Moore, John","Johnson & Johnson, Ltd.",HR,03/14/2024,"$96,000.00",,Active
+E018," Anderson, Maria ",Riverdale Partners,Design,11/23/2024,"$82,500.00","$6,775.41",On Leave
+E019,"Chen, Daniel",BrightPath Education,Design,2021-09-06,"$55,500.00",,Active
+E020,"Martinez, Daniel",CloudFirst Technologies,Customer Success,10/02/2025,"$129,200.00","$6,251.13",Active
+E021,"McDonald, Maria",Nexus Software,Operations,2024-02-01,"$117,000.00",,Active
+E022," Davis, Patrick ",CloudFirst Technologies,Operations,2024-05-06,"$135,200.00","$16,068.65",On Leave
+E023,"Garcia, Ana","Pacific Northwest, Corp.",Finance,02/04/2025,"$81,500.00","$3,938.39",Active
+E024,"Chen, Patrick",Riverdale Partners,Finance,2023-01-01,"$126,200.00",,Active
+E025,"Smith, Ana","Johnson & Johnson, Ltd.",Sales,2023-09-02,"$63,800.00",,Active
+E026,"Chen, Emily",DataViz Systems,HR,2023-11-04,"$97,500.00","$5,002.37",Active
+E027,"Wilson, John","Global Media, Inc.",Operations,07/26/2022,"$145,000.00","$4,855.36",Active
+E028,"Anderson, Emily",Summit Financial Group,HR,04/01/2022,"$80,000.00","$4,409.70",On Leave
+E029,"Moore, James","Acme, Inc.",Marketing,2025-05-06,"$78,000.00",,Active
+E030,"Wilson, Stephanie",Sterling Logistics,Marketing,07/19/2022,"$135,800.00",,On Leave
+E031,"Van Der Berg, Michael","Premier Consulting, Inc.",Legal,2023-02-22,"$129,000.00","$7,356.74",Active
+E032,"St. Claire, Maria","Cascade, Inc.",Sales,2024-04-14,"$67,200.00","$7,058.37",Active
+E033,"Jackson, Stephanie","Horizon Energy, LLC",Product,2022-08-15,"$146,500.00","$8,136.72",Terminated
+E034,"Brown, Maria",CloudFirst Technologies,HR,03/01/2021,"$105,000.00","$11,523.99",Terminated
+E035,"Taylor, William",CloudFirst Technologies,Sales,2021-11-23,"$143,000.00","$7,106.49",On Leave
+E036,"Martinez, Thomas","Pacific Northwest, Corp.",Product,2025-11-17,"$141,800.00","$13,433.37",On Leave
+E037,"Anderson, Sarah",BrightPath Education,Product,2022-05-25,"$80,800.00","$4,420.87",Active
+E038,"Miller, James","Cascade, Inc.",Marketing,03/05/2022,"$64,500.00",,Active
+E039,"Chen, Michael",Riverdale Partners,Legal,2021-10-23,"$142,800.00","$16,400.12",Active
+E040,"Wilson, Amanda","Cascade, Inc.",Customer Success,04/16/2022,"$107,000.00","$9,651.25",Active
+E041,"Kim, Stephanie","Cascade, Inc.",Engineering,2025-07-19,"$55,800.00",,Active
+E042," Miller, Michael ",Nexus Software,Operations,06/25/2024,"$98,200.00","$7,102.57",On Leave
+E043,"Brown, Patrick",Tech Solutions LLC,Engineering,2021-04-07,"$75,500.00","$3,042.28",Active
+E044,"Davis, Sarah",Evergreen Services,Customer Success,2021-12-23,"$65,200.00",,Active
+E045,"Rodriguez, William",DataViz Systems,Marketing,10/23/2022,"$143,200.00","$12,034.10",Active
+E046,"Chen, Emily","Cascade, Inc.",Legal,2021-11-12,"$88,000.00","$9,152.86",Active
+E047,"Anderson, David",Riverdale Partners,Sales,2023-12-17,"$113,800.00","$11,871.17",Terminated
+E048,"O'Brien, Robert",Nexus Software,HR,2025-08-19,"$88,000.00","$5,214.11",Active
+E049,"Miller, Robert",Evergreen Services,Finance,2025-09-01,"$55,500.00","$4,105.45",Active
+E050,"Taylor, Thomas","Acme, Inc.",Marketing,2024-05-08,"$84,200.00","$6,549.33",Active
+E051,"Davis, Thomas",Metro Healthcare,Finance,2021-05-08,"$85,000.00","$9,824.21",Active
+E052,"Jones, Daniel",Sterling Logistics,Customer Success,05/04/2022,"$91,500.00","$8,575.53",Active
+E053,"Moore, Maria","Pacific Northwest, Corp.",Product,2021-02-28,"$105,800.00","$4,929.51",Active
+E054,"Martinez, Patrick",Alpine Manufacturing,Product,02/19/2021,"$148,200.00",,Active
+E055,"White, Stephanie",Evergreen Services,HR,2024-09-13,"$83,800.00","$7,197.79",Terminated
+E056,"Williams, Michael",Metro Healthcare,Marketing,2022-03-08,"$65,000.00","$5,982.82",Active
+E057,"St. Claire, Maria",Nexus Software,Marketing,2023-11-08,"$125,500.00","$9,915.83",Active
+E058,"O'Brien, Lisa","Global Media, Inc.",Finance,2025-10-24,"$101,000.00","$5,794.19",Active
+E059,"Taylor, Thomas","Johnson & Johnson, Ltd.",Customer Success,2023-01-14," $48,000.00","$4,352.97",Terminated
+E060,"McDonald, Robert","Pinnacle Group, Ltd.",Engineering,2025-03-16,"$80,500.00","$5,572.99",Active
+E061," Wilson, James ","Horizon Energy, LLC",Marketing,2024-03-11,"$81,800.00","$6,503.81",Active
+E062,"Martinez, William",Sterling Logistics,Engineering,11/28/2025,"$51,500.00","$4,430.91",Active
+E063,"Williams, Robert","Cascade, Inc.",Sales,05/15/2024,"$125,500.00","$7,274.92",Active
+E064,"Martinez, Thomas",Smith & Associates,Sales,2023-08-23,"$79,800.00","$9,434.12",Active
+E065,"Williams, Stephanie",Sterling Logistics,Sales,02/09/2024,"$145,200.00","$8,052.14",Active
+E066,"McDonald, Ashley","Pacific Northwest, Corp.",Product,09/16/2023,"$142,800.00","$8,419.48",Active
+E067,"Rodriguez, Jennifer",Riverdale Partners,Engineering,2024-06-24," $148,800.00","$13,352.12",Active
+E068," Thomas, Daniel ","Horizon Energy, LLC",Marketing,2025-08-04,"$46,500.00","$4,135.26",Active
+E069,"Jones, James",Evergreen Services,Legal,2023-11-03," $113,800.00","$9,833.68",Active
+E070," O'Brien, Jennifer ",Summit Financial Group,HR,2024-12-03,"$142,000.00","$13,129.33",Active
+E071,"Garcia, Emily","Premier Consulting, Inc.",Legal,03/08/2025,"$132,500.00",,Active
+E072,"McDonald, Jennifer",BrightPath Education,Customer Success,2024-03-08,"$103,200.00","$11,445.06",Active
+E073,"Johnson, Patrick",Nexus Software,Operations,2024-10-10,"$103,200.00",,Active
+E074,"Rodriguez, Daniel","Premier Consulting, Inc.",Customer Success,05/23/2023,"$129,800.00","$10,505.18",Active
+E075,"Garcia, Jennifer",Evergreen Services,Operations,2022-04-21,"$131,500.00","$14,636.78",Active
+E076,"Jackson, Emily","Pacific Northwest, Corp.",Marketing,05/11/2024,"$61,200.00","$6,867.49",Active
+E077," Taylor, Maria ","Horizon Energy, LLC",Marketing,2022-08-03,"$73,800.00","$7,558.07",Active
+E078,"Jones, Amanda",Smith & Associates,Product,2023-06-22,"$150,200.00",,Active
+E079,"Moore, James",Evergreen Services,HR,2024-11-03,"$83,800.00",,Active
+E080,"Taylor, Ana",Smith & Associates,HR,09/05/2024,"$130,800.00","$12,477.53",Active
+E081,"White, Jessica",Metro Healthcare,Engineering,12/12/2022,"$75,200.00",,Active
+E082,"Davis, Lisa",Alpine Manufacturing,Finance,04/04/2024,"$72,000.00",,Active
+E083," Jackson, Michael ","Johnson & Johnson, Ltd.",Design,2022-04-19,"$74,200.00","$7,492.56",Terminated
+E084," Kim, David ","Cascade, Inc.",Finance,03/04/2021,"$90,500.00","$2,843.54",Active
+E085,"Thomas, Ana","Johnson & Johnson, Ltd.",Product,2023-08-25,"$58,800.00","$6,767.14",Active

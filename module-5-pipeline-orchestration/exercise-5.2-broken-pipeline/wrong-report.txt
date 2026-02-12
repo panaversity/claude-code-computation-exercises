@@ -1,0 +1,17 @@
+QUARTERLY FINANCIAL REPORT
+==================================================
+
+Total transactions processed: 58
+
+Category              Count        Total
+----------------------------------------
+Dining                    6 $   -104.83
+Grocery                   4 $   -259.58
+Health                    1 $    -15.05
+Income                   12 $ 42,182.84
+Shopping                 13 $   -744.38
+Subscription              6 $    -95.94
+Transportation            8 $   -426.20
+Utility                   8 $   -889.72
+----------------------------------------
+TOTAL                    58 $ 39,647.14
