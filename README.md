@@ -2,7 +2,7 @@
 
 **Build Verified Data Processing Tools**
 
-Practice exercises for Chapter 8 of the Agent Factory curriculum. You will build Python-based data processing utilities, debug broken scripts with hidden logic bugs, and construct multi-step pipelines that handle real-world CSV messiness.
+Practice exercises for the Computation & Data Extraction chapter of the Agent Factory curriculum. You will build Python-based data processing utilities, debug broken scripts with hidden logic bugs, and construct multi-step pipelines that handle real-world CSV messiness.
 
 ## Package Structure
 
