@@ -263,7 +263,7 @@ Fix all 8 without breaking the legitimate matches those patterns are supposed to
 
 ## Module 5: Pipeline Orchestration
 
-**Lessons Covered**: 6
+**Lessons Covered**: 4
 **Core Skill**: Connecting verified tools into multi-step data pipelines
 
 Individual tools are useful. Pipelines of connected tools are powerful. But pipelines introduce a new class of bugs: interface mismatches between steps, silent data loss in the middle, and cascading errors that make the final output wrong even when each step looks correct in isolation. These exercises teach you to build and debug multi-step pipelines.
